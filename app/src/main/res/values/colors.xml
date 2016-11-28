@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimary">#4b4b4b</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="windowBackground">#018594</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButtonNormal">#F08C35</color>
+    <color name="colorButtonCapstone">#f06735</color>
+    <color name="navigationBarColor">#000000</color>
+</resources>
