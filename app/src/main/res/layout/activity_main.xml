@@ -16,7 +16,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center|top"
         android:orientation="vertical"
-        android:textAlignment="center">
+        android:textAlignment="center"
+        android:id="@+id/list_item">
         <TextView
             android:text="@string/title"
             android:layout_width="match_parent"
